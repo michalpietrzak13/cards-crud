@@ -3,7 +3,6 @@ Simple CRUD app for “Cards” with pagination and basic validation.
 
 Requirements
 PHP 8.2+, Composer
-
 Node 18+
 
 MySQL
